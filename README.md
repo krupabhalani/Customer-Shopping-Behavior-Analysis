@@ -33,8 +33,11 @@ Performed data cleaning and preprocessing using:
 ### Tasks Performed
 
 ✅ Null Value Treatment
+
 ✅ Duplicate Removal
+
 ✅ Feature Engineering
+
 ✅ Connection to MySQL Workbench
 
 ---
